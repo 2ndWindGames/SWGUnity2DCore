@@ -15,8 +15,7 @@
 
 # NuGet Packages
 *.nupkg
-**/[Pp]ackages/*
-!**/[Pp]ackages/build/
+# Packages/ contains the source-controlled Unity packages in this repository.
 
 # .NET build artifacts
 artifacts/
